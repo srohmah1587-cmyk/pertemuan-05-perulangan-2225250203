@@ -36,8 +36,8 @@ Langkah-langkah perulangan untuk menyelesaikan program deret aritmetika adalah s
 | No. | Input                 | Keluaran yang Diharapkan | Keluaran Aktual | Status   |
 | --- | --------------------- | ------------------------ | --------------- | -------- |
 | 1   | a = 2, b = 3, n = 5   | 2, 5, 8, 11, 14          | 2, 5, 8, 11, 14 | Berhasil |
-| 2   | a = 10, b = -2, n = 4   | 10, 8, 6, 4              | 5, 7, 9, 11     | Berhasil |
-| 3   | a = 1.5, b = 0.5, n = 3 | 1.5, 2.0, 2.5           | 10, 8, 6, 4, 2  | Berhasil |
+| 2   | a = 10, b = -2, n = 4   | 10, 8, 6, 4              | 10, 8, 6, 4   | Berhasil |
+| 3   | a = 1.5, b = 0.5, n = 3 | 1.5, 2.0, 2.5           | 1.5, 2.0, 2.5  | Berhasil |
 
 ## Refleksi
 
